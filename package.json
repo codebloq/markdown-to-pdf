@@ -1,0 +1,15 @@
+{
+  "name": "markdown-to-pdf",
+  "version": "1.0.0",
+  "description": "Markdown to PDF convertor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "codebloq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "markdown-pdf": "^11.0.0"
+  }
+}
